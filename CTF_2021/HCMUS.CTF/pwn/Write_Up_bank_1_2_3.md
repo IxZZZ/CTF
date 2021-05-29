@@ -81,10 +81,11 @@ với `0x4c-0xc` là khoảng cách giữa biến `name` và biến `balance`
 
 # Chạy script python
 ![image](https://user-images.githubusercontent.com/31529599/120003897-5c89cd80-c000-11eb-9aa7-5f6883126e06.png)
+
 Xong !
 
 
-# **bank 3*
+# **bank 3**
 
 ## Task:
 nc 61.28.237.24 30204
