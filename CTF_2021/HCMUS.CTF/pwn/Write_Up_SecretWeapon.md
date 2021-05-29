@@ -73,9 +73,9 @@ p.interactive()
 ```
 
 ## Run scripts
-vì server đã đóng nên mình tiến hành khai thác local với file flag.txt HCMUSCTF{bank6}
+vì server đã đóng nên mình tiến hành khai thác local với file flag.txt HCMUSCTF{SecretWeapon}
 
-![image](https://user-images.githubusercontent.com/31529599/120056455-8c6bbc00-c066-11eb-8ff9-64eca9af64c0.png)
+![image](https://user-images.githubusercontent.com/31529599/120056671-06e90b80-c068-11eb-84ba-cd7154137998.png)
 
 Xong !
 
