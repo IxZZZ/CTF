@@ -111,6 +111,8 @@ sau đó gọi hàm `up1` và làm tương tự ...
 # Chạy Script
 vì server đã đóng nên mình tiến hành khai thác local với file flag.txt HCMUSCTF{bank4}
 
+![image](https://user-images.githubusercontent.com/31529599/120054739-e6b34f80-c05b-11eb-9d52-b094be01af50.png)
 
+Xong!
 
 
