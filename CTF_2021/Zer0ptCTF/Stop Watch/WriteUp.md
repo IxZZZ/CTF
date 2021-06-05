@@ -1,4 +1,4 @@
-# ** STOPWATCH
+# **STOPWATCH**
 ## Task
 nc pwn.ctf.zer0pts.com 9002
 File: chall libc.so.6 main.c
